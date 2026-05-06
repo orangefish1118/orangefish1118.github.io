@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://orangefish1118.github.io/posts/15c21348.html</loc>
+    <loc>https://orangefish1118.github.io/posts/93bd07c8.html</loc>
     
     <lastmod>2026-05-06</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://orangefish1118.github.io/posts/93bd07c8.html</loc>
+    <loc>https://orangefish1118.github.io/posts/15c21348.html</loc>
     
     <lastmod>2026-05-06</lastmod>
     
@@ -731,7 +731,7 @@
   </url>
   
   <url>
-    <loc>https://orangefish1118.github.io/posts/72bf3530.html</loc>
+    <loc>https://orangefish1118.github.io/posts/f26276ff.html</loc>
     
     <lastmod>2026-05-06</lastmod>
     
@@ -740,7 +740,7 @@
   </url>
   
   <url>
-    <loc>https://orangefish1118.github.io/posts/f26276ff.html</loc>
+    <loc>https://orangefish1118.github.io/posts/72bf3530.html</loc>
     
     <lastmod>2026-05-06</lastmod>
     
@@ -819,6 +819,104 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/Redis/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/Git/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/Docker/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/Java/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/MQTT/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/Linux/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/Maven/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/MySQL/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangefish1118.github.io/tags/%E6%B5%8B%E8%AF%95%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
